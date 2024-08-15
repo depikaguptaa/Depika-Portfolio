@@ -265,7 +265,7 @@ export const Bio = {
       school: "Rani Laxmi Bai Memorial School, Lucknow",
       date: "Apr 2019 - Apr 2021",
       grade: "83%",
-      desc: "I completed my class 12 high school education at Rani Laxmi Bai Memorial School, Lucknow, where I studied Science with Computer Science.",
+      desc: "I completed my senior secondary education at Rani Laxmi Bai Memorial School, Lucknow, where I studied Science with Computer Science.",
       degree: "CBSE(XII), Science with Computer",
     },
     {
@@ -274,7 +274,7 @@ export const Bio = {
       school: "Nirmala Convent Inter College, Lucknow",
       date: "Apr 2017 - Apr 2019",
       grade: "84%",
-      desc: "I completed my class 10 education at Nirmala Convent Inter College, Lucknow, where I studied Science with Computer Application.",
+      desc: "I completed my higher secondary education at Nirmala Convent Inter College, Lucknow, where I studied Science with Computer Application.",
       degree: "ICSC(X), Science with Computer",
     },
   ];
