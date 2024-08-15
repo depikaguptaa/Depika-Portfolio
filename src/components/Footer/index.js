@@ -101,7 +101,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Depika Gupta. All rights reserved.
+          Made with ❤️ by Depika Gupta
         </Copyright>
 
       </FooterWrapper>
