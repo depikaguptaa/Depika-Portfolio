@@ -246,7 +246,6 @@ export const Bio = {
         "Machine Learning",
         "Data Structures and Algorithms",
       ],
-      doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
     },
   ];
   
