@@ -104,6 +104,7 @@ const ContactInputMessage = styled.textarea`
 `
 
 const ContactButton = styled.input`
+  cursor: pointer;
   width: 100%;
   text-decoration: none;
   text-align: center;
@@ -130,7 +131,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
+    emailjs.sendForm('service_4t2xvki', 'template_w4slyos', form.current, '3ejtFVhNrArvJZGxh')
       .then((result) => {
         setOpen(true);
         form.current.reset();
@@ -166,4 +167,4 @@ const Contact = () => {
   )
 }
 
-export default Contact
+export default Contact;
