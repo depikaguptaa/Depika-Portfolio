@@ -88,7 +88,6 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Depika Gupta</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
