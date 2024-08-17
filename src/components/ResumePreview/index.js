@@ -45,7 +45,7 @@ function Resume() {
         <Title>Resume</Title>
         <IframeContainer>
           <StyledIframe
-            src="https://yellow-dominica-8.tiiny.site"
+            src="https://depika-gupta-resume.tiiny.site"
             allowFullScreen
             title="Resume PDF"
           />
